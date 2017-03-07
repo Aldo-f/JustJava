@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Wolk\ownCloud\Git\Android\JustJava\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Admin\Wolk\ownCloud\Git\Android\JustJava\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4ad3ef1eaa90cd2cb5787aa7276b0925aa9e59e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\cb661136d76fcc842fd8e75975f1a052015e7125\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Admin\Wolk\ownCloud\Git\Android\JustJava\app\build\intermediates\pre-dexed\debug\classes_7cae94420532eb35e164756678a6edbca3d4d7b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Admin\Wolk\ownCloud\Git\Android\JustJava\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_8e6da7c073f29f50b5e12278ff3cd29499ed6233.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\ae87ff49cc8e472489a4f610bd4b279499c2c145\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Admin\Wolk\ownCloud\Git\Android\JustJava\app\build\intermediates\pre-dexed\debug\classes_6fc829cf177fb86508b4cb4de2397d3e88845876.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\1fa90c1b7b261e2302360d0ee81b2c8556f22361\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Admin\Wolk\ownCloud\Git\Android\JustJava\app\build\intermediates\pre-dexed\debug\classes_e96d04353653e9267e1913bcc4fcc36b04309a3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\35a4c36fe83f50cb5d3caa837b14567afef811ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Admin\Wolk\ownCloud\Git\Android\JustJava\app\build\intermediates\pre-dexed\debug\classes_eaa1100a65ce884f5c1c0fd198a21e6ec5dd985e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\93d6ae27d63b431a9277fe91f2670eeb7475a50b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Admin\Wolk\ownCloud\Git\Android\JustJava\app\build\intermediates\pre-dexed\debug\classes_f2b942274d44cc468789fcb2de5ce23aaddbd4e4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Wolk\ownCloud\Git\Android\JustJava\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fab3e5108baf6d3fa7c6af00c2276494f82edd3c">
+        <dex dex="C:\Users\Admin\Wolk\ownCloud\Git\Android\JustJava\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8d3e9a00e33bbc69b681e00f6036d7a3ad5a3b54\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\a22b23eab7d87a0457bf3beb939f4c8537234bbc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Admin\Wolk\ownCloud\Git\Android\JustJava\app\build\intermediates\pre-dexed\debug\classes_f6a15835d1c51d166df3045469c2728d86001806.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\a2eb05876acd7df7e93ae544096a7d9883944e31\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Admin\Wolk\ownCloud\Git\Android\JustJava\app\build\intermediates\pre-dexed\debug\classes_2ec047c5ff1d27841763d3db4edc816956e719fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\7427bcf86d3a9bc9a846c9b3047865bb57ff34d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="C:\Users\Admin\Wolk\ownCloud\Git\Android\JustJava\app\build\intermediates\pre-dexed\debug\classes_3f4ec6d6446f4c56816b9484a370dbc8f1b576e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\b9d620fcdaa8b041b5cb31e68819877fd2acf0fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Admin\Wolk\ownCloud\Git\Android\JustJava\app\build\intermediates\pre-dexed\debug\classes_0a29663f5eac0cb3344035942bf8e82ed52400b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.1\constraint-layout-solver-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="C:\Users\Admin\Wolk\ownCloud\Git\Android\JustJava\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.1_1a253e586b3efb4773e473e775aaf934d5b14207.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\e77b52057677e95f568688c8281ce7afc448eb97\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Admin\Wolk\ownCloud\Git\Android\JustJava\app\build\intermediates\pre-dexed\debug\classes_9334016e7cce190addb687686ead7dfb976f5cdf.jar" />
+    </item>
+
+</items>
