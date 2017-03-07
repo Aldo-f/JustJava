@@ -45,7 +45,7 @@
                 android:layout_weight="1"
                 android:paddingLeft="8dp"
                 android:paddingRight="8dp"
-                android:text="2"
+                android:text="0"
                 android:textColor="#000"
                 android:textSize="16dp"
                 app:layout_constraintBottom_toBottomOf="parent"
